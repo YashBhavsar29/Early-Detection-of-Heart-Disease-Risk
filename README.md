@@ -255,6 +255,7 @@ If `streamlit` is not recognized, always use `python -m streamlit` as shown abov
 - [Final test predictions](reports/final_test_predictions.csv)
 - [Classification report](reports/final_test_classification_report.txt)
 - [Cross-validation results](reports/cross_validation_model_comparison.csv)
+- [Streamlit testing examples PDF](reports/streamlit_testing_examples.pdf)
 
 The `models/` and `data/` outputs are intentionally ignored by Git because they are generated artifacts. The `reports/` outputs remain available for the README visual report.
 
